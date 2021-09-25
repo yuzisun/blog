@@ -74,7 +74,7 @@ We'd like to thank all the KServe contributors for this transition work!
 
 -   [Tommy Li](https://github.com/Tomcli)
 
--   [Vedant Padwa](https://github.com/js-ts)
+-   [Vedant Padwal](https://github.com/js-ts)
 
 -   [Yao Xiao](https://github.com/PatrickXYS)
 
